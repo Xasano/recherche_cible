@@ -1,0 +1,3 @@
+﻿  AdresseIP.cpp
+C:\Users\basti\Downloads\demonstration-appel-getnameinfo-en-C++_versionH2022\ProjetReseauTravail4\AdresseIP.cpp(109,12): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+  ProjetReseauTravail4.vcxproj -> C:\Users\basti\Downloads\demonstration-appel-getnameinfo-en-C++_versionH2022\x64\Debug\ProjetReseauTravail4.exe
